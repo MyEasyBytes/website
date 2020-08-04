@@ -280,9 +280,9 @@ body {
 	font-size: 24px;
 	font-weight: 100;
   }
-  .teaser a:hover h3 {
+  /* .teaser a:hover h3 {
 	color: #a9b2b9;
-  }
+  } */
   
 .primary-header a,
 .primary-footer a {
@@ -306,8 +306,11 @@ body {
   min-width: 960px;
 }
 .row {
-  background: #fff;
-  padding: 66px 0 44px 0;
+	background: #fff;
+	background: -webkit-linear-gradient(to right, #268CFF, #f6f1d3);
+	background: -moz-linear-gradient(to right, #268CFF, #f6f1d3);
+	background: linear-gradient(to right, #268CFF, #f6f1d3);
+	padding   : 66px 0 44px 0;
 }
 .row-alt {
    background: #cbe2c1;
@@ -317,12 +320,6 @@ body {
    padding: 44px 0 22px 0;
  }
 
-
-.row-1 {
-	min-width : 960px;
-	background: #f6f1d3;
-	padding   : 66px 0 44px 0;
-}
 
 
  /*
