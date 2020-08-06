@@ -57,7 +57,7 @@ body {
 	color: rgb(77, 66, 85);
 	/* color: #000000; */
 	/* background: #293f50; */
-	background: #268CFF;
+	background: #268bff81;
 	font: 300 16px/22px "Slabo 27px", Verdana,Helvetica,Arial,sans-serif;
   }
 
@@ -307,16 +307,16 @@ body {
 }
 .row {
 	background: #fff;
-	background: -webkit-linear-gradient(to right, #268CFF, #f6f1d3);
-	background: -moz-linear-gradient(to right, #268CFF, #f6f1d3);
-	background: linear-gradient(to right, #268CFF, #f6f1d3);
+	background: -webkit-linear-gradient(to right, #B0D6FC, #fff);
+	background: -moz-linear-gradient(to right, #B0D6FC, #fff);
+	background: linear-gradient(to right, #B0D6FC, #fff);
 	padding   : 66px 0 44px 0;
 }
 .row-alt {
    background: #cbe2c1;
-   background: -webkit-linear-gradient(to right, #268CFF, #f6f1d3);
-   background: -moz-linear-gradient(to right, #268CFF, #f6f1d3);
-   background: linear-gradient(to right, #268CFF, #f6f1d3);
+   background: -webkit-linear-gradient(to right, #B0D6FC, #fff);
+   background: -moz-linear-gradient(to right, #B0D6FC, #fff);
+   background: linear-gradient(to right, #B0D6FC, #fff);
    padding: 44px 0 22px 0;
  }
 
@@ -386,7 +386,7 @@ body {
 
 
   .contact-us-group label {
-	color: #648880;
+	color: #000;
 	cursor: pointer;
 	font-weight: 400;
   }
@@ -414,11 +414,12 @@ body {
   
   .btn-default {
 	border: 0;
-	background: #648880;
+	background: #268bff81;
 	padding: 11px 30px;
 	font-size: 14px;
   }
   .btn-default:hover {
-	background: #77a198;
+	background: #fff;
+	color: #000;
   }
   
