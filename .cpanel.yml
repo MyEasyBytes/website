@@ -2,4 +2,4 @@
 deployment:
   tasks:
     -export DEPLOYPATH=/home/pejoakdg/public_html/
-    -bin/cp -R website $DEPLOYPATH
+    -/bin/cp -R * $DEPLOYPATH
