@@ -423,3 +423,19 @@ body {
 	color: #000;
   }
   
+.theme h1 {
+	text-align: center;
+	background-color: #268bff81;
+}
+.theme h2 {
+	text-align: center;
+	background-color: #268bff23;
+}
+.theme h3 {
+	text-align: center;
+	text-decoration: underline;
+}
+.theme p {
+	text-align: justify;
+	font-size: 1.2em;
+}
