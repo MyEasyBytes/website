@@ -435,7 +435,8 @@ body {
 	text-align: center;
 	text-decoration: underline;
 }
-.theme p {
+.theme p,
+.theme ul {
 	text-align: justify;
 	font-size: 1.2em;
 }
