@@ -162,6 +162,7 @@ body {
   em {
 	font-style: italic;
   }
+ 
   
   /*
 	========================================
@@ -318,6 +319,7 @@ body {
    background: -moz-linear-gradient(to right, #B0D6FC, #fff);
    background: linear-gradient(to right, #B0D6FC, #fff);
    padding: 44px 0 22px 0;
+   
  }
 
 
