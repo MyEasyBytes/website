@@ -3,7 +3,7 @@ nav,
 article,
 section,
 footer {
-	background-color: rgb(182, 243, 243);
+	background-color: #b6f3f3;
 	border-radius: 5px;
 	color: black;
 	font-family: Arial, Helvetica, sans-serif;
@@ -11,17 +11,7 @@ footer {
 	padding: 30px;
 	margin-bottom: 20px;
 }
-/* header::before,
-nav::before,
-section::before,
-article::before,
-footer::before {
-	content: '<';
+.grid {
+	display: grid;
+	grid-template-columns: auto auto auto;
 }
-header::after,
-nav::after,
-section::after,
-article::after,
-footer::after {
-	content: '>';
-} */
