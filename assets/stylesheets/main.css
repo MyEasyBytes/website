@@ -442,3 +442,7 @@ body {
 	text-align: justify;
 	font-size: 1.2em;
 }
+.dis-grid {
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
